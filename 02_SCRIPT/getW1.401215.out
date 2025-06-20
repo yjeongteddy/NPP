@@ -1,0 +1,24 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+             R2022a Update 3 (9.12.0.1975300) 64-bit (glnxa64)
+                                June 2, 2022
+
+[Warning: Directory permission denied:
+/root/Documents/MATLAB/SupportPackages/R2022a/toolbox/parallel/internal/supportpackages/slurm] 
+[Warning: Directory permission denied:
+/root/Documents/MATLAB/SupportPackages/R2022a/toolbox/parallel/internal/supportpackages/generic_scheduler_installer] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Function count has the same name as a MATLAB builtin. We suggest you
+rename the function to avoid a potential name conflict.] 
+[> In path (line 109)
+In addpath (line 86)] 
+[Warning: Function fopen has the same name as a MATLAB builtin. We suggest you
+rename the function to avoid a potential name conflict.] 
+[> In path (line 109)
+In addpath (line 86)] 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 12).
